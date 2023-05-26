@@ -1,0 +1,16 @@
+maj 26, 2023 9:23:59 FM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from Swing input
+maj 26, 2023 9:24:23 FM org.example.GUI saveCredentialsToFile
+INFO: Saving login credentials to file
+maj 26, 2023 9:25:13 FM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from file
+maj 26, 2023 9:25:13 FM org.example.GUI readCredentialsFromFile
+INFO: Reading login credentials from file
+maj 26, 2023 9:25:40 FM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from file
+maj 26, 2023 9:25:40 FM org.example.GUI readCredentialsFromFile
+INFO: Reading login credentials from file
+maj 26, 2023 9:26:27 FM org.example.GUI getLoginCredentials
+INFO: Reading login credentials from Swing input
+maj 26, 2023 9:27:00 FM org.example.GUI saveCredentialsToFile
+INFO: Saving login credentials to file
